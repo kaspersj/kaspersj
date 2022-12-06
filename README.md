@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaspersj
+- 👋 Hi, I’m John!
 - 👀 I’m interested in sports, statistics, and applied data science.
 - 🌱 I’m currently a graduate (masters) student at University of Michigan.
 - 💞️ I’m looking to collaborate on Python projects.
